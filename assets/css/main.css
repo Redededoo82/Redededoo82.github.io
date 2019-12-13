@@ -4691,3 +4691,7 @@ input, select, textarea {
 	#abort{
 		background-color: red;
 	}
+
+	#resume{
+		background-color: lightgray;
+	}
